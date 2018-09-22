@@ -4,7 +4,7 @@
 
 body {
     /*Image taken from "http://www.winwallpapers.net/sky-blue/"*/
-    background: url("/.c9/Photos/Sky-Blue.jpg");
+    background: url("photos/Sky-Blue.jpg");
     overflow: hidden!important;
     background-repeat: no-repeat;
     -webkit-background-size: no-repeat;
@@ -13,6 +13,19 @@ body {
 }
 
 /*------------------------------------------------------------------Navbar*/
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*---------------------------------------------------------Media Queries*/
