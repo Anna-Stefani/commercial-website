@@ -5,8 +5,11 @@
 body {
     /*Image taken from "http://www.winwallpapers.net/sky-blue/"*/
     background: url("photos/Sky-Blue.jpg");
-    overflow: hidden!important;
+    height: 500px;
+    width: 100%;
+    overflow-x: hidden;
     background-repeat: no-repeat;
+    background-position: center center;
     -webkit-background-size: no-repeat;
     -moz-background-size: no-repeat;
     -o-background-size: no-repeat;
@@ -14,18 +17,22 @@ body {
 
 /*------------------------------------------------------------------Navbar*/
 
+.navigation {
+    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
 
+/*------------------------------------------------------------------Jumbotron header*/
 
-
-
-
-
-
-
-
-
-
-
-
+.jumbotron {
+    margin: 0px;
+    background-color: #FFFF00;
+    font-size: 7px;
+    font-weight: 300;
+    font-family: "Exo", sans-serif;
+    overflow-x: hidden;
+}
 
 /*---------------------------------------------------------Media Queries*/
+
