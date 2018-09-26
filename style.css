@@ -34,5 +34,11 @@ body {
     overflow-x: hidden;
 }
 
+/*------------------------------------------------------------------International news feeds*/
+
+.display-4 {
+    font-family: "Exo", sans-serif;
+}
+
 /*---------------------------------------------------------Media Queries*/
 
