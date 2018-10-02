@@ -4,8 +4,8 @@
 
 body {
     /*Image taken from "http://www.winwallpapers.net/sky-blue/"*/
-    background: url("photos/sky-blue.jpg");
-    height: 500px;
+    background: url("/photos/sky-blue.jpg");
+    height: 1000px;
     width: 100%;
     overflow-x: hidden;
     background-repeat: no-repeat;
@@ -26,8 +26,11 @@ body {
 /*------------------------------------------------------------------Jumbotron header*/
 
 .jumbotron {
+    padding-top: 0;
+    margin-top: 0;
+    padding-bottom: 0;
     margin: 0px;
-    background-color: #FFFF00;
+    background-color: #ceb621;
     font-size: 7px;
     font-weight: 300;
     font-family: "Exo", sans-serif;
