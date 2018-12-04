@@ -5,8 +5,7 @@
 body {
     /*Image taken from "http://www.winwallpapers.net/sky-blue/"*/
     background: url("/photos/sky-blue.jpg");
-    height: 1000px;
-    width: 100%;
+    background-size: cover;
     overflow-x: hidden;
     background-repeat: no-repeat;
     background-position: center center;
@@ -21,6 +20,7 @@ body {
     margin: 0;
     margin-left: 0;
     margin-right: 0;
+    overflow-x: hidden;
 }
 
 /*------------------------------------------------------------------Jumbotron header*/
@@ -42,6 +42,17 @@ body {
 .display-4 {
     font-family: "Exo", sans-serif;
 }
+
+/*------------------------------------------------------------------Beach photos*/
+
+img-responsive {
+    float: right;
+}
+
+h3 {
+    font-family: "Exo", sans-serif;
+}
+
 
 /*------------------------------------------------------------------Media queries*/
 
