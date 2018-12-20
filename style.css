@@ -43,7 +43,7 @@ body {
     font-family: "Exo", sans-serif;
 }
 
-/*------------------------------------------------------------------Beach photos*/
+/*------------------------------------------------------------------Beaches photos*/
 
 img-responsive {
     float: right;
@@ -53,6 +53,9 @@ h3 {
     font-family: "Exo", sans-serif;
 }
 
+.text-left {
+    margin: 10px;
+}
 
 /*------------------------------------------------------------------Media queries*/
 
