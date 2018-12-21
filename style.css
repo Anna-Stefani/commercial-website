@@ -57,7 +57,7 @@ h3 {
     margin: 10px;
 }
 
-/*------------------------------------------------------------------Google Map Beaches*/
+/*------------------------------------------------------------------Google map beaches*/
 
 .map-container-3{
     overflow:hidden;
@@ -74,5 +74,23 @@ h3 {
     position:absolute;
 }
 
+/*-----------------------------------------------------------------Attractions*/
+
+.image {
+    padding-top:50px;
+    padding-right:0px;
+    display: block;
+}
+
+.paragraphs {
+    padding-left:0px;
+    padding-right:50px;
+    margin: 20px;
+    display: block;
+}
+
+.paragraphs h3 {
+    padding-top:50px;
+}
 /*------------------------------------------------------------------Media queries*/
 
