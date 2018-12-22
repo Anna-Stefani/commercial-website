@@ -84,7 +84,7 @@ h3 {
 
 .paragraphs {
     padding-left:0px;
-    padding-right:50px;
+    padding-right:0px;
     margin: 20px;
     display: block;
 }
@@ -92,6 +92,8 @@ h3 {
 .paragraphs h3 {
     padding-top:50px;
 }
+
+
 
 /*------------------------------------------------------------------Footer*/
 
